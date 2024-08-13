@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **DanielDinizNET/DanielDinizNET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,17 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Olá! 👋
+# Hello! 👋
 
-Bem-vindo ao meu repositório! 🚀
+Welcome to my repository! 🚀
 
-Sou estudante de Redes de Computadores 💻🔧 e aqui você encontrará meus projetos e estudos sobre redes, protocolos e muito mais. Meu objetivo é explorar e compartilhar conhecimento sobre este fascinante campo da tecnologia, desde configurações de rede até implementações práticas e pesquisas.
+I'm a Computer Networks student 💻🔧, and here you'll find my projects and studies on networking, protocols, and more. My goal is to explore and share knowledge about this fascinating field of technology, from network configurations to practical implementations and research.
 
-## O que você vai encontrar por aqui:
+## What you'll find here:
 
-- **Projetos de Redes** 🛠️: Configurações, simulações e estudos de caso.
-- **Scripts e Ferramentas** 📜: Automatizações e utilitários para facilitar o trabalho com redes.
-- **Documentação e Tutoriais** 📚: Guias e explicações sobre conceitos e práticas de redes.
-- **Contribuições e Colaborações** 🤝: Espaço para aprender e crescer juntos!
-
+- **Network Projects** 🛠️: Configurations, simulations, and case studies.
+- **Scripts and Tools** 📜: Automations and utilities to ease networking tasks.
+- **Documentation and Tutorials** 📚: Guides and explanations on networking concepts and practices.
+- **Contributions and Collaborations** 🤝: A space to learn and grow together!
 
